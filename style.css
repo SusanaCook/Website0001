@@ -7,9 +7,8 @@ body {
     height: 400px;
     width: 290px;
 }
-.col-md-3 {
-    height: 15%;
-    width: 15%;
+.col-md-6 {
+    color: white;
 }
 .navbar-brand {
     font-family: Palatino;
