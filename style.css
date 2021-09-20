@@ -24,3 +24,32 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(245,103,27,1) 100%);
     font-size: 1.25rem;
     font-family: 'Roboto Slab', serif;
 }
+.feature ul {
+    padding: 2rem;
+    list-style-type: none;
+}
+.feature ul li {
+    padding-left: 2rem;
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+.icon {
+    color: white;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.gallery {
+    background-color: whitesmoke;
+}
+.gallery img {
+    border-radius: 5%;
+}
+.no-more {
+    background-color: black;
+}
