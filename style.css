@@ -3,6 +3,10 @@ body {
     height: 100%;
     font-size: 1rem;
 }
+.head-pic {
+    height: 400px;
+    width: 290px;
+}
 
 .navbar-brand {
     font-family: Palatino;
@@ -11,4 +15,10 @@ body {
 .gradient {
     background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(245,103,27,1) 100%);
+}
+.page-header {
+    margin-top: 4rem;
+    color: white;
+    font-size: 1.25rem;
+    font-family: 'Roboto Slab', serif;
 }
